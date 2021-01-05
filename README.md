@@ -17,6 +17,8 @@
       <variantList/>
    </layout>
    
+Keyboard layout working checked on Ubuntu 16.04, 18.04 and 20.04.
+
 ### Special Mentions:
 
 Custom Keyboard in Linux/X11 by Daniel Paul O'Donnell [http://people.uleth.ca/~daniel.odonnell/Blog/custom-keyboard-in-linuxx11]<br>
