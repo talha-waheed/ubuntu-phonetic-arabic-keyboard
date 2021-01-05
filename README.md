@@ -16,3 +16,9 @@
       </configItem>
       <variantList/>
    </layout>
+
+
+## Special Mentions:
+
+Custom Keyboard in Linux/X11 by Daniel Paul O'Donnell [http://people.uleth.ca/~daniel.odonnell/Blog/custom-keyboard-in-linuxx11]
+Layout inspired by 'KBD AraPhon' [http://arabic.omaralzabir.com/home]
