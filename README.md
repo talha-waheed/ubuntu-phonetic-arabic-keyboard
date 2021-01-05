@@ -4,7 +4,8 @@
 
 1. Place the file named 'arph' in the directory /usr/share/X11/xkb/symbols
 1. Open /usr/share/X11/xkb/rules/evdev.xml and append the following code to the 'layoutList' tag:
-   ```<layout>
+   ```
+   <layout>
       <configItem>
          <name>arph</name>
          <shortDescription>arph</shortDescription>
